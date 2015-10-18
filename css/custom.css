@@ -1,0 +1,84 @@
+* {
+	outline: 1px solid red !important;
+}
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body { 
+  background: url(../images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+}
+
+.header {
+	padding-top: 10px;
+}
+
+.search-div {
+	margin-top: 10px;
+}
+
+.content-div {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.about-me-div {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.feat-container {
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+.flex-center {
+	display: flex;
+	justify-content: space-around;
+}
+
+.flex-space-around {
+	display: flex;
+	justify-content: space-around;
+}
+
+.pad-top-ten {
+	padding-top: 10px;
+}
+
+.pad-top-bottom {
+	padding-bottom: 10px;
+}
+
+.pad-none {
+	padding: 0px;
+}
+blue
+#02072D
+#070F40
+#0F1B63
+#121653
+#161862
+#112071
+red
+#4E0000
+#530503
+#650F02
+#6B140A
+yellow
+#D06F00
